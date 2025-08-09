@@ -1,7 +1,7 @@
 {
   "fitness_classes": [
     {
-      "name": "Explosió de Cardio",
+      "name": "Explosió Cardio",
       "start": "2025-08-05T09:00:00",
       "end": "2025-08-05T10:00:00",
       "instructor": "Bob Johnson",
@@ -217,9 +217,9 @@
       }
     },
     {
-      "name": "Explosió de Cardio",
-      "start": "2025-08-12T09:00:00",
-      "end": "2025-08-12T10:00:00",
+      "name": "Explosió Cardio",
+      "start": "2025-08-11T09:00:00",
+      "end": "2025-08-11T10:00:00",
       "instructor": "Bob Johnson",
       "description": "Exercici cardiovascular per a tots els nivells.",
       "render_config": {
@@ -230,8 +230,8 @@
     },
     {
       "name": "Enfortiment del Core",
-      "start": "2025-08-12T10:30:00",
-      "end": "2025-08-12T11:15:00",
+      "start": "2025-08-11T10:30:00",
+      "end": "2025-08-11T11:15:00",
       "instructor": "Cathy Lee",
       "description": "Enforteix els teus músculs abdominals.",
       "render_config": {
@@ -242,8 +242,8 @@
     },
     {
       "name": "Zumba",
-      "start": "2025-08-12T18:00:00",
-      "end": "2025-08-12T19:00:00",
+      "start": "2025-08-11T18:00:00",
+      "end": "2025-08-11T19:00:00",
       "instructor": "Alice Smith",
       "description": "Balla per posar-te en forma.",
       "render_config": {
@@ -254,8 +254,8 @@
     },
     {
       "name": "Spinning",
-      "start": "2025-08-13T08:00:00",
-      "end": "2025-08-13T09:00:00",
+      "start": "2025-08-12T08:00:00",
+      "end": "2025-08-12T09:00:00",
       "instructor": "Eva Green",
       "description": "Classe de spinning al matí.",
       "render_config": {
@@ -266,8 +266,8 @@
     },
     {
       "name": "Pilates",
-      "start": "2025-08-13T09:30:00",
-      "end": "2025-08-13T10:30:00",
+      "start": "2025-08-12T09:30:00",
+      "end": "2025-08-12T10:30:00",
       "instructor": "Cathy Lee",
       "description": "Enforteix i tonifica amb Pilates.",
       "render_config": {
@@ -278,8 +278,8 @@
     },
     {
       "name": "Boxa Bàsica",
-      "start": "2025-08-13T18:00:00",
-      "end": "2025-08-13T19:00:00",
+      "start": "2025-08-12T18:00:00",
+      "end": "2025-08-12T19:00:00",
       "instructor": "Bob Johnson",
       "description": "Aprèn els fonaments de la boxa.",
       "render_config": {
@@ -290,8 +290,8 @@
     },
     {
       "name": "Ioga",
-      "start": "2025-08-14T07:30:00",
-      "end": "2025-08-14T08:30:00",
+      "start": "2025-08-13T07:30:00",
+      "end": "2025-08-13T08:30:00",
       "instructor": "Alice Smith",
       "description": "Ioga fluid per a mitja setmana.",
       "render_config": {
@@ -302,8 +302,8 @@
     },
     {
       "name": "Entrenament de Força",
-      "start": "2025-08-14T09:00:00",
-      "end": "2025-08-14T10:00:00",
+      "start": "2025-08-13T09:00:00",
+      "end": "2025-08-13T10:00:00",
       "instructor": "Bob Johnson",
       "description": "Construeix múscul i força.",
       "render_config": {
@@ -314,8 +314,8 @@
     },
     {
       "name": "Dansa Fitness",
-      "start": "2025-08-14T18:30:00",
-      "end": "2025-08-14T19:30:00",
+      "start": "2025-08-13T18:30:00",
+      "end": "2025-08-13T19:30:00",
       "instructor": "Eva Green",
       "description": "Entrenament divertit de dansa.",
       "render_config": {
@@ -326,8 +326,8 @@
     },
     {
       "name": "Pilates",
-      "start": "2025-08-15T09:00:00",
-      "end": "2025-08-15T10:00:00",
+      "start": "2025-08-14T09:00:00",
+      "end": "2025-08-14T10:00:00",
       "instructor": "Cathy Lee",
       "description": "Pilates al matí.",
       "render_config": {
@@ -338,8 +338,8 @@
     },
     {
       "name": "Entrenament Funcional",
-      "start": "2025-08-15T10:30:00",
-      "end": "2025-08-15T11:15:00",
+      "start": "2025-08-14T10:30:00",
+      "end": "2025-08-14T11:15:00",
       "instructor": "Bob Johnson",
       "description": "Millora el moviment quotidià.",
       "render_config": {
@@ -350,8 +350,8 @@
     },
     {
       "name": "Ioga al Vespre",
-      "start": "2025-08-15T18:00:00",
-      "end": "2025-08-15T19:00:00",
+      "start": "2025-08-14T18:00:00",
+      "end": "2025-08-14T19:00:00",
       "instructor": "Alice Smith",
       "description": "Ioga relaxant per acabar la setmana.",
       "render_config": {
@@ -362,8 +362,8 @@
     },
     {
       "name": "Ioga",
-      "start": "2025-08-16T08:00:00",
-      "end": "2025-08-16T09:00:00",
+      "start": "2025-08-15T08:00:00",
+      "end": "2025-08-15T09:00:00",
       "instructor": "Alice Smith",
       "description": "Ioga de dissabte al matí.",
       "render_config": {
@@ -374,8 +374,8 @@
     },
     {
       "name": "Bootcamp",
-      "start": "2025-08-16T09:30:00",
-      "end": "2025-08-16T10:30:00",
+      "start": "2025-08-15T09:30:00",
+      "end": "2025-08-15T10:30:00",
       "instructor": "Bob Johnson",
       "description": "Sessió de bootcamp a l'aire lliure.",
       "render_config": {
@@ -386,8 +386,8 @@
     },
     {
       "name": "Estiraments i Mobilitat",
-      "start": "2025-08-16T11:00:00",
-      "end": "2025-08-16T12:00:00",
+      "start": "2025-08-15T11:00:00",
+      "end": "2025-08-15T12:00:00",
       "instructor": "Eva Green",
       "description": "Millora la flexibilitat i la mobilitat.",
       "render_config": {
@@ -398,8 +398,8 @@
     },
     {
       "name": "Pilates",
-      "start": "2025-08-17T09:00:00",
-      "end": "2025-08-17T10:00:00",
+      "start": "2025-08-16T09:00:00",
+      "end": "2025-08-16T10:00:00",
       "instructor": "Cathy Lee",
       "description": "Pilates de diumenge.",
       "render_config": {
@@ -410,8 +410,8 @@
     },
     {
       "name": "Fitness en Família",
-      "start": "2025-08-17T10:30:00",
-      "end": "2025-08-17T11:15:00",
+      "start": "2025-08-16T10:30:00",
+      "end": "2025-08-16T11:15:00",
       "instructor": "Alice Smith",
       "description": "Exercici divertit per a totes les edats.",
       "render_config": {
@@ -422,8 +422,8 @@
     },
     {
       "name": "Meditació",
-      "start": "2025-08-17T18:00:00",
-      "end": "2025-08-17T18:45:00",
+      "start": "2025-08-16T18:00:00",
+      "end": "2025-08-16T18:45:00",
       "instructor": "Eva Green",
       "description": "Sessió guiada de meditació.",
       "render_config": {

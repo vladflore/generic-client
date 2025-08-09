@@ -13,7 +13,7 @@
       }
     },
     {
-      "name": "Fortalecimiento del Core",
+      "name": "Fortalecimiento de Core",
       "start": "2025-08-05T10:30:00",
       "end": "2025-08-05T11:15:00",
       "instructor": "Cathy Lee",
@@ -97,11 +97,11 @@
       }
     },
     {
-      "name": "Fitness de Baile",
+      "name": "Baile Fitness",
       "start": "2025-08-07T18:30:00",
       "end": "2025-08-07T19:30:00",
       "instructor": "Eva Green",
-      "description": "Divertido entrenamiento de baile.",
+      "description": "Entrenamiento divertido de baile.",
       "render_config": {
         "text_color": "#000000",
         "background_color": "#E1BEE7",
@@ -218,8 +218,8 @@
     },
     {
       "name": "Explosión Cardio",
-      "start": "2025-08-12T09:00:00",
-      "end": "2025-08-12T10:00:00",
+      "start": "2025-08-11T09:00:00",
+      "end": "2025-08-11T10:00:00",
       "instructor": "Bob Johnson",
       "description": "Ejercicio cardiovascular para todos los niveles.",
       "render_config": {
@@ -229,9 +229,9 @@
       }
     },
     {
-      "name": "Fortalecimiento del Core",
-      "start": "2025-08-12T10:30:00",
-      "end": "2025-08-12T11:15:00",
+      "name": "Fortalecimiento de Core",
+      "start": "2025-08-11T10:30:00",
+      "end": "2025-08-11T11:15:00",
       "instructor": "Cathy Lee",
       "description": "Fortalece tus músculos centrales.",
       "render_config": {
@@ -242,8 +242,8 @@
     },
     {
       "name": "Zumba",
-      "start": "2025-08-12T18:00:00",
-      "end": "2025-08-12T19:00:00",
+      "start": "2025-08-11T18:00:00",
+      "end": "2025-08-11T19:00:00",
       "instructor": "Alice Smith",
       "description": "Baila para ponerte en forma.",
       "render_config": {
@@ -254,8 +254,8 @@
     },
     {
       "name": "Spinning",
-      "start": "2025-08-13T08:00:00",
-      "end": "2025-08-13T09:00:00",
+      "start": "2025-08-12T08:00:00",
+      "end": "2025-08-12T09:00:00",
       "instructor": "Eva Green",
       "description": "Clase de spinning matutina.",
       "render_config": {
@@ -266,8 +266,8 @@
     },
     {
       "name": "Pilates",
-      "start": "2025-08-13T09:30:00",
-      "end": "2025-08-13T10:30:00",
+      "start": "2025-08-12T09:30:00",
+      "end": "2025-08-12T10:30:00",
       "instructor": "Cathy Lee",
       "description": "Fortalece y tonifica con Pilates.",
       "render_config": {
@@ -278,8 +278,8 @@
     },
     {
       "name": "Boxeo Básico",
-      "start": "2025-08-13T18:00:00",
-      "end": "2025-08-13T19:00:00",
+      "start": "2025-08-12T18:00:00",
+      "end": "2025-08-12T19:00:00",
       "instructor": "Bob Johnson",
       "description": "Aprende los fundamentos del boxeo.",
       "render_config": {
@@ -290,8 +290,8 @@
     },
     {
       "name": "Yoga",
-      "start": "2025-08-14T07:30:00",
-      "end": "2025-08-14T08:30:00",
+      "start": "2025-08-13T07:30:00",
+      "end": "2025-08-13T08:30:00",
       "instructor": "Alice Smith",
       "description": "Yoga fluido para mitad de semana.",
       "render_config": {
@@ -302,8 +302,8 @@
     },
     {
       "name": "Entrenamiento de Fuerza",
-      "start": "2025-08-14T09:00:00",
-      "end": "2025-08-14T10:00:00",
+      "start": "2025-08-13T09:00:00",
+      "end": "2025-08-13T10:00:00",
       "instructor": "Bob Johnson",
       "description": "Desarrolla músculo y fuerza.",
       "render_config": {
@@ -313,11 +313,11 @@
       }
     },
     {
-      "name": "Fitness de Baile",
-      "start": "2025-08-14T18:30:00",
-      "end": "2025-08-14T19:30:00",
+      "name": "Baile Fitness",
+      "start": "2025-08-13T18:30:00",
+      "end": "2025-08-13T19:30:00",
       "instructor": "Eva Green",
-      "description": "Divertido entrenamiento de baile.",
+      "description": "Entrenamiento divertido de baile.",
       "render_config": {
         "text_color": "#000000",
         "background_color": "#E1BEE7",
@@ -326,8 +326,8 @@
     },
     {
       "name": "Pilates",
-      "start": "2025-08-15T09:00:00",
-      "end": "2025-08-15T10:00:00",
+      "start": "2025-08-14T09:00:00",
+      "end": "2025-08-14T10:00:00",
       "instructor": "Cathy Lee",
       "description": "Pilates matutino.",
       "render_config": {
@@ -338,8 +338,8 @@
     },
     {
       "name": "Entrenamiento Funcional",
-      "start": "2025-08-15T10:30:00",
-      "end": "2025-08-15T11:15:00",
+      "start": "2025-08-14T10:30:00",
+      "end": "2025-08-14T11:15:00",
       "instructor": "Bob Johnson",
       "description": "Mejora el movimiento cotidiano.",
       "render_config": {
@@ -350,8 +350,8 @@
     },
     {
       "name": "Yoga Nocturno",
-      "start": "2025-08-15T18:00:00",
-      "end": "2025-08-15T19:00:00",
+      "start": "2025-08-14T18:00:00",
+      "end": "2025-08-14T19:00:00",
       "instructor": "Alice Smith",
       "description": "Yoga relajante para terminar la semana.",
       "render_config": {
@@ -362,8 +362,8 @@
     },
     {
       "name": "Yoga",
-      "start": "2025-08-16T08:00:00",
-      "end": "2025-08-16T09:00:00",
+      "start": "2025-08-15T08:00:00",
+      "end": "2025-08-15T09:00:00",
       "instructor": "Alice Smith",
       "description": "Yoga matutino de sábado.",
       "render_config": {
@@ -374,8 +374,8 @@
     },
     {
       "name": "Bootcamp",
-      "start": "2025-08-16T09:30:00",
-      "end": "2025-08-16T10:30:00",
+      "start": "2025-08-15T09:30:00",
+      "end": "2025-08-15T10:30:00",
       "instructor": "Bob Johnson",
       "description": "Sesión de bootcamp al aire libre.",
       "render_config": {
@@ -386,8 +386,8 @@
     },
     {
       "name": "Estiramiento y Movilidad",
-      "start": "2025-08-16T11:00:00",
-      "end": "2025-08-16T12:00:00",
+      "start": "2025-08-15T11:00:00",
+      "end": "2025-08-15T12:00:00",
       "instructor": "Eva Green",
       "description": "Mejora la flexibilidad y movilidad.",
       "render_config": {
@@ -398,8 +398,8 @@
     },
     {
       "name": "Pilates",
-      "start": "2025-08-17T09:00:00",
-      "end": "2025-08-17T10:00:00",
+      "start": "2025-08-16T09:00:00",
+      "end": "2025-08-16T10:00:00",
       "instructor": "Cathy Lee",
       "description": "Pilates dominical.",
       "render_config": {
@@ -410,8 +410,8 @@
     },
     {
       "name": "Fitness Familiar",
-      "start": "2025-08-17T10:30:00",
-      "end": "2025-08-17T11:15:00",
+      "start": "2025-08-16T10:30:00",
+      "end": "2025-08-16T11:15:00",
       "instructor": "Alice Smith",
       "description": "Ejercicio divertido para todas las edades.",
       "render_config": {
@@ -422,8 +422,8 @@
     },
     {
       "name": "Meditación",
-      "start": "2025-08-17T18:00:00",
-      "end": "2025-08-17T18:45:00",
+      "start": "2025-08-16T18:00:00",
+      "end": "2025-08-16T18:45:00",
       "instructor": "Eva Green",
       "description": "Sesión guiada de meditación.",
       "render_config": {
