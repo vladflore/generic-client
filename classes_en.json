@@ -111,15 +111,27 @@
       }
     },
     {
-      "name": "Calisthenics (OR Fr OR Sat)",
-      "start": "2026-05-06T19:00:00",
-      "end": "2026-05-06T20:00:00",
+      "name": "Driving",
+      "start": "2026-05-06T18:00:00",
+      "end": "2026-05-06T19:30:00",
       "instructor": "",
       "render_config": {
         "text_color": "#FFFF00",
-        "background_color": "#e8900c"
+        "background_color": "#16a635"
       }
     },
+
+    {
+      "name": "Work",
+      "start": "2026-05-06T21:00:00",
+      "end": "2026-05-06T23:00:00",
+      "instructor": "",
+      "render_config": {
+        "text_color": "#FFFF00",
+        "background_color": "#3278cf"
+      }
+    },
+
     {
       "name": "Work",
       "start": "2026-05-07T08:00:00",
@@ -160,6 +172,18 @@
         "background_color": "#ff0000"
       }
     },
+
+    {
+      "name": "Work",
+      "start": "2026-05-06T22:00:00",
+      "end": "2026-05-06T23:00:00",
+      "instructor": "",
+      "render_config": {
+        "text_color": "#FFFF00",
+        "background_color": "#3278cf"
+      }
+    },
+
     {
       "name": "Work",
       "start": "2026-05-08T08:00:00",
@@ -171,7 +195,7 @@
       }
     },
     {
-      "name": "Calisthenics (OR Wed OR Sat)",
+      "name": "Calisthenics (OR Sat)",
       "start": "2026-05-08T19:00:00",
       "end": "2026-05-08T20:00:00",
       "instructor": "",
@@ -181,7 +205,7 @@
       }
     },
     {
-      "name": "Calisthenics (OR Wed OR Fr)",
+      "name": "Calisthenics (OR Fr)",
       "start": "2026-05-09T09:00:00",
       "end": "2026-05-09T10:00:00",
       "instructor": "",
