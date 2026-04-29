@@ -42,6 +42,16 @@
     },
     {
       "name": "Work",
+      "start": "2026-05-04T20:00:00",
+      "end": "2026-05-04T23:00:00",
+      "instructor": "",
+      "render_config": {
+        "text_color": "#FFFF00",
+        "background_color": "#ff0000"
+      }
+    },
+    {
+      "name": "Work",
       "start": "2026-05-05T08:00:00",
       "end": "2026-05-05T16:30:00",
       "instructor": "",
@@ -51,9 +61,39 @@
       }
     },
     {
+      "name": "Commuting",
+      "start": "2026-05-05T17:15:00",
+      "end": "2026-05-05T18:00:00",
+      "instructor": "",
+      "render_config": {
+        "text_color": "#FFFF00",
+        "background_color": "#ff0000"
+      }
+    },
+    {
       "name": "Running",
       "start": "2026-05-05T18:00:00",
       "end": "2026-05-05T19:00:00",
+      "instructor": "",
+      "render_config": {
+        "text_color": "#FFFF00",
+        "background_color": "#a33c97"
+      }
+    },
+    {
+      "name": "Commuting",
+      "start": "2026-05-05T19:15:00",
+      "end": "2026-05-05T20:00:00",
+      "instructor": "",
+      "render_config": {
+        "text_color": "#FFFF00",
+        "background_color": "#ff0000"
+      }
+    },
+    {
+      "name": "Work",
+      "start": "2026-05-05T20:15:00",
+      "end": "2026-05-05T23:00:00",
       "instructor": "",
       "render_config": {
         "text_color": "#FFFF00",
@@ -71,7 +111,7 @@
       }
     },
     {
-      "name": "Calisthenics (OR Friday OR Saturday)",
+      "name": "Calisthenics (OR Fr OR Sat)",
       "start": "2026-05-06T19:00:00",
       "end": "2026-05-06T20:00:00",
       "instructor": "",
@@ -91,9 +131,29 @@
       }
     },
     {
+      "name": "Commuting",
+      "start": "2026-05-07T18:15:00",
+      "end": "2026-05-07T19:00:00",
+      "instructor": "",
+      "render_config": {
+        "text_color": "#FFFF00",
+        "background_color": "#a33c97"
+      }
+    },
+    {
       "name": "Running",
       "start": "2026-05-07T19:00:00",
       "end": "2026-05-07T20:00:00",
+      "instructor": "",
+      "render_config": {
+        "text_color": "#FFFF00",
+        "background_color": "#a33c97"
+      }
+    },
+    {
+      "name": "Commuting",
+      "start": "2026-05-07T20:15:00",
+      "end": "2026-05-07T21:00:00",
       "instructor": "",
       "render_config": {
         "text_color": "#FFFF00",
@@ -111,7 +171,7 @@
       }
     },
     {
-      "name": "Calisthenics (OR Wednesday OR Saturday)",
+      "name": "Calisthenics (OR Wed OR Sat)",
       "start": "2026-05-08T19:00:00",
       "end": "2026-05-08T20:00:00",
       "instructor": "",
@@ -121,7 +181,7 @@
       }
     },
     {
-      "name": "Calisthenics (OR Wednesday OR Friday)",
+      "name": "Calisthenics (OR Wed OR Fr)",
       "start": "2026-05-09T09:00:00",
       "end": "2026-05-09T10:00:00",
       "instructor": "",
