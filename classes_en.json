@@ -21,13 +21,13 @@
       }
     },
     {
-      "name": "1-1 Training",
+      "name": "1-1 Training OR Calisthenics",
       "start": "2026-05-04T18:00:00",
       "end": "2026-05-04T19:00:00",
       "instructor": "",
       "render_config": {
         "text_color": "#FFFF00",
-        "background_color": "#a3423b"
+        "background_color": "#cccccc"
       }
     },
     {
@@ -71,13 +71,13 @@
       }
     },
     {
-      "name": "Running",
+      "name": "Running OR Hybrid",
       "start": "2026-05-05T18:00:00",
       "end": "2026-05-05T19:15:00",
       "instructor": "",
       "render_config": {
         "text_color": "#FFFF00",
-        "background_color": "#a33c97"
+        "background_color": "#cccccc"
       }
     },
     {
@@ -195,23 +195,23 @@
       }
     },
     {
-      "name": "Calisthenics (OR Sat)",
+      "name": "Calisthenics",
       "start": "2026-05-08T19:00:00",
       "end": "2026-05-08T20:00:00",
       "instructor": "",
       "render_config": {
         "text_color": "#FFFF00",
-        "background_color": "#e8900c"
+        "background_color": "#cccccc"
       }
     },
     {
-      "name": "Calisthenics (OR Fr)",
+      "name": "Calisthenics",
       "start": "2026-05-09T09:00:00",
       "end": "2026-05-09T10:00:00",
       "instructor": "",
       "render_config": {
         "text_color": "#FFFF00",
-        "background_color": "#e8900c"
+        "background_color": "#cccccc"
       }
     }
   ]
