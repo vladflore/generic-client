@@ -21,13 +21,13 @@
       }
     },
     {
-      "name": "1-1 Training OR Calisthenics",
+      "name": "1-1 Training",
       "start": "2026-05-04T18:00:00",
       "end": "2026-05-04T19:00:00",
       "instructor": "",
       "render_config": {
         "text_color": "#FFFF00",
-        "background_color": "#cccccc"
+        "background_color": "#000000"
       }
     },
     {
@@ -62,8 +62,8 @@
     },
     {
       "name": "Commuting",
-      "start": "2026-05-05T17:15:00",
-      "end": "2026-05-05T18:00:00",
+      "start": "2026-05-05T18:15:00",
+      "end": "2026-05-05T19:00:00",
       "instructor": "",
       "render_config": {
         "text_color": "#FFFF00",
@@ -71,19 +71,19 @@
       }
     },
     {
-      "name": "Running OR Hybrid",
-      "start": "2026-05-05T18:00:00",
-      "end": "2026-05-05T19:15:00",
+      "name": "Legs & Core",
+      "start": "2026-05-05T19:00:00",
+      "end": "2026-05-05T20:00:00",
       "instructor": "",
       "render_config": {
         "text_color": "#FFFF00",
-        "background_color": "#cccccc"
+        "background_color": "#12cce0"
       }
     },
     {
       "name": "Commuting",
-      "start": "2026-05-05T19:15:00",
-      "end": "2026-05-05T20:00:00",
+      "start": "2026-05-05T20:00:00",
+      "end": "2026-05-05T20:45:00",
       "instructor": "",
       "render_config": {
         "text_color": "#FFFF00",
@@ -92,7 +92,7 @@
     },
     {
       "name": "Work",
-      "start": "2026-05-05T20:15:00",
+      "start": "2026-05-05T21:30:00",
       "end": "2026-05-05T23:00:00",
       "instructor": "",
       "render_config": {
@@ -194,6 +194,18 @@
         "background_color": "#3278cf"
       }
     },
+
+    {
+      "name": "Commuting",
+      "start": "2026-05-08T18:15:00",
+      "end": "2026-05-08T19:00:00",
+      "instructor": "",
+      "render_config": {
+        "text_color": "#FFFF00",
+        "background_color": "#ff0000"
+      }
+    },
+
     {
       "name": "Calisthenics",
       "start": "2026-05-08T19:00:00",
@@ -201,17 +213,29 @@
       "instructor": "",
       "render_config": {
         "text_color": "#FFFF00",
-        "background_color": "#cccccc"
+        "background_color": "#e09512"
       }
     },
+
     {
-      "name": "Calisthenics",
-      "start": "2026-05-09T09:00:00",
-      "end": "2026-05-09T10:00:00",
+      "name": "Commuting",
+      "start": "2026-05-08T20:00:00",
+      "end": "2026-05-08T20:45:00",
       "instructor": "",
       "render_config": {
         "text_color": "#FFFF00",
-        "background_color": "#cccccc"
+        "background_color": "#ff0000"
+      }
+    },
+
+    {
+      "name": "Work",
+      "start": "2026-05-08T22:00:00",
+      "end": "2026-05-08T23:00:00",
+      "instructor": "",
+      "render_config": {
+        "text_color": "#FFFF00",
+        "background_color": "#3278cf"
       }
     }
   ]
